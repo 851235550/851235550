@@ -2,7 +2,7 @@
 
 I'm a Full-Stack engineer. 
 
-Good at using `Golang` and `React.js` to build highly available and scalable Web applications. 
+Pretty good at using `Golang` and `React.js` to build highly available and scalable Web applications. 
 
 In addition, also understand the following languages:
 
